@@ -5,4 +5,4 @@ commonAnnotations:
 patchesStrategicMerge:
   - deployment_patch.yaml
 resources:
-  - https://github.com/s-u-b-h-a-k-a-r-cicd/hello-kubernetes-dev-config/base/?ref=v2.1
+  - https://github.com/alaghusundhar/hello-kubernetes-dev-config/base/?ref=v2.1
