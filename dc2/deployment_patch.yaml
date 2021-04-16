@@ -5,4 +5,4 @@ metadata:
     app: hello-kubernetes-custom
   name: hello-kubernetes-custom
 spec:
-  replicas: 2
+  replicas: 3
